@@ -1,3 +1,3 @@
-module github.com/jamal/memorycache
+module github.com/jamal/inMemorycache
 
 go 1.21.3
